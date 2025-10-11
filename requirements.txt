@@ -1,0 +1,10 @@
+requests
+jupyter
+jupyterlab-pygments
+pip
+attrs
+zlib
+distro
+pysocks
+openssl
+cryptography
